@@ -1,0 +1,10 @@
+* paren-test
+
+Parenscript testing framework.  Works, but it needs love to be more lovable.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/gonzojive/paren-test.git   |
+| commit  | ffa1349  |
+| systems | paren-test |
+|---------+-------------------------------------------|
+
